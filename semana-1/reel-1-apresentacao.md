@@ -2,7 +2,7 @@
 
 **Pilar:** Mentalidade Real
 **Formato:** Falando pra câmera
-**Duração:** 60-75 segundos
+**Duração:** 70-90 segundos
 **Dia:** Segunda ou Terça
 
 ---
@@ -12,18 +12,20 @@
 ### GANCHO (0-3s)
 "Tenho 18 anos e tô construindo uma inteligência artificial."
 
-### CORPO (3-45s)
-"Eu programo desde os 13. Nunca parei.
+### CORPO (3-55s)
+"Eu programo desde os 13. Nunca parei. Comecei por curiosidade, ficava vendo tutorial no YouTube, tentando fazer as coisas funcionarem. E quando funcionava, mano... era viciante.
 
-E agora eu tô construindo o Total Assistente — uma IA que cuida das suas finanças e agendas direto no WhatsApp.
+E agora eu tô construindo o Total Assistente — uma IA que cuida das suas finanças e agendas direto no WhatsApp. Tipo, você manda uma mensagem e a IA organiza tua vida. Essa é a ideia.
 
-E eu pensei: por que não mostrar tudo isso aqui? Os bugs, os acertos, os números, as decisões erradas.
+Tá pronto? Não. Tá longe de estar pronto. Tá cheio de bug, tem coisa que não funciona, tem dia que eu quero jogar o notebook pela janela.
 
-Porque a maioria dos conteúdos de tech que eu vejo é tudo bonitinho. Tudo funcionando. E na real não é assim.
+E eu pensei: por que não mostrar tudo isso aqui? Os bugs, os acertos, os números, as decisões erradas. Tudo.
 
-Aqui vai ser sem filtro."
+Porque a maioria dos conteúdos de tech que eu vejo é tudo bonitinho. Tudo funcionando perfeito. E quem tá construindo algo sabe que não é assim.
 
-### FECHAMENTO (45-55s)
+Então é isso. Eu vou mostrar tudo aqui."
+
+### FECHAMENTO (55-70s)
 "Me segue que essa semana já tem coisa nova. E vou te falar a verdade em... vai ter bastante bug."
 
 ---
