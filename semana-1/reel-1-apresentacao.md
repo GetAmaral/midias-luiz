@@ -12,21 +12,19 @@
 ### GANCHO (0-3s)
 "Tenho 18 anos e tô construindo uma inteligência artificial."
 
-### CORPO (3-55s)
-"Eu comecei a programar com 13 anos. Não tinha curso, não tinha ninguém me ensinando, era eu e o YouTube.
+### CORPO (3-45s)
+"Eu programo desde os 13. Nunca parei.
 
-Aos 15 eu perdi meu pai. E aí tudo mudou. Eu precisei amadurecer rápido.
+E agora eu tô construindo o Total Assistente — uma IA que cuida das suas finanças e agendas direto no WhatsApp.
 
-No mesmo ano entrei num curso técnico. E aos 17 eu abri minha empresa.
+E eu pensei: por que não mostrar tudo isso aqui? Os bugs, os acertos, os números, as decisões erradas.
 
-Hoje eu tô construindo o Total Assistente — um assistente virtual com inteligência artificial. E eu decidi documentar tudo aqui.
+Porque a maioria dos conteúdos de tech que eu vejo é tudo bonitinho. Tudo funcionando. E na real não é assim.
 
-Os bugs, as vitórias, as decisões, os números. Tudo.
+Aqui vai ser sem filtro."
 
-Porque eu acho que tem muita gente que quer construir algo mas não sabe como é de verdade. E eu vou te mostrar como é de verdade."
-
-### FECHAMENTO (55-65s)
-"Me segue que essa semana já tem conteúdo novo. E vou te falar a verdade em... vai ter bastante bug."
+### FECHAMENTO (45-55s)
+"Me segue que essa semana já tem coisa nova. E vou te falar a verdade em... vai ter bastante bug."
 
 ---
 
