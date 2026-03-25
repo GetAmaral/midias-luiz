@@ -23,9 +23,9 @@
 
 Sem baixar nada. Sem abrir planilha. Só o WhatsApp que você já usa todo dia.
 
-O nome é Total Assistente. Eu tô construindo do zero — do código à IA.
+O nome é Total Assistente. Eu sou um dos fundadores — faço o código, faço a IA, e tô aqui na frente mostrando pra vocês.
 
-E a partir de agora eu vou mostrar aqui como é construir um produto de verdade. Features novas, decisões, resultados. Tudo aberto."
+A partir de agora eu vou mostrar como é construir um produto de verdade. Tudo aberto."
 
 ### FECHAMENTO (45-55s)
 "Se você curte tech ou quer organizar sua vida sem complicação, me segue. Toda semana tem coisa nova saindo."
